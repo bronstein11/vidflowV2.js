@@ -123,14 +123,6 @@ json-server --watch videos.json --port 3000
 - **CSS Grid e Flexbox**: Layouts modernos e flexíveis
 - **Media Queries**: Adaptação para diferentes dispositivos
 
-## 🚧 Possíveis Melhorias
-
-- [ ] Implementar sistema de favoritos
-- [ ] Adicionar player de vídeo customizado  
-- [ ] Implementar lazy loading para melhor performance
-- [ ] Adicionar animações e transições mais elaboradas
-- [ ] Integração com API real do YouTube
-- [ ] Sistema de usuários e autenticação
 
 ## 👨‍💻 Autor
 
